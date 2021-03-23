@@ -1,3 +1,3 @@
 # BakerTWashington.github.io
 
-[Jupyter Notebook](ky_electricity.ipynb)
+[Jupyter Notebook](fayette.html)
